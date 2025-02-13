@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi There! You weren’t supposed to find this yet, so congratulations on searching me up and looking through my github!\nThe purpose of this website is to provide a nice place for people to see what I am working on, whether they be collaborators (current and former) or recruiters. I am also using this as an opportunity to stay on top of the current trends in data science, here to record what I have been working on and learning so that I can be a better analyst.\nCurrently I am still editing and learning the ropes, so while you are free to browse keep in mind I do not intend for this website to be public and given out to recruiters yet.\nThanks for visiting!\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "astro_work.html",
+    "href": "astro_work.html",
+    "title": "Astrophysics Research",
+    "section": "",
+    "text": "Here I have summaries of the main work I have done in Astrophysics.\nThis is a field that is dear to my heart, and so while this list is unlikely to be updated with new, cited works, it will include a section that details my current obsession within the field. I try and keep up on looking into the arxiv once a week, mostly just to see what people have been up to."
+  },
+  {
+    "objectID": "data_science.html",
+    "href": "data_science.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "Here is a brief overview of my work in data science. This page is mostly meant to protray the areas I am working on strenghtening, for more comprehensive lists of my current qualifications please turn back to the home page."
+  }
+]

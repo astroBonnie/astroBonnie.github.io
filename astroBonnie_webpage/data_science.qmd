@@ -1,0 +1,5 @@
+---
+title: "Data Science"
+---
+
+Here is a brief overview of my work in data science. This page is mostly meant to protray the areas I am working on strenghtening, for more comprehensive lists of my current qualifications please turn back to the home page.

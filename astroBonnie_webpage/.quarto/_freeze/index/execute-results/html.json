@@ -1,0 +1,15 @@
+{
+  "hash": "932c6018b933475394bf4bc322ebfa6e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Home\"\n---\n\n\n\nHi There! You weren't supposed to find this yet, so congratulations on searching me up and looking through my github!\n\nThe purpose of this website is to provide a nice place for people to see what I am working on, whether they be collaborators (current and former) or recruiters. I am also using this as an opportunity to stay on top of the current trends in data science, here to record what I have been working on and learning so that I can be a better analyst.\n\nCurrently I am still editing and learning the ropes, so while you are free to browse keep in mind I do not intend for this website to be public and given out to recruiters yet.\n\nThanks for visiting!\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
