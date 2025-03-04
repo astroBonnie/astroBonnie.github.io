@@ -92,18 +92,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./astro_work.html"> 
-<span class="menu-text">Astrophysics Research</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./data_science.html"> 
-<span class="menu-text">Data Science</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -159,9 +147,32 @@ ul.task-list li input[type="checkbox"] {
 <section id="experience" class="level2">
 <h2 class="anchored" data-anchor-id="experience">Experience</h2>
 <p><strong>Graduate Research Assistant</strong> (August 2022 - January 2025)</p>
+<ul>
+<li><p>Developed code infrastructure to allow basic users to conduct complex queries on an unstructured database.</p></li>
+<li><p>Collaborated with a team of statisticians to create a novel Bayesian and Frequentist approach to distance measurement in Astrophysics. Served as the astrophysics reference and lead python developer.</p></li>
+<li><p>Planned and saw through a research project at Keck Observatory, including the resulting data reduction and analysis</p></li>
+</ul>
 <p><strong>Bayesian Astrostatistics Teaching Assistant</strong> (2022 &amp; 2023 Fall Semester)</p>
+<ul>
+<li>Taught the foundations of Bayesian statistics through the lens of Astrophysics. Focused on modern techniques of MCMC, bayesian model selection, and hierarchical modeling.</li>
+</ul>
+<!-- -->
+<ul>
+<li>Worked with Dr.&nbsp;Scarlata to create the course textbook, including testing and coding examples in R and Python.</li>
+</ul>
 <p><strong>Administrative Assistant</strong> (May 2021 - July 2022)</p>
+<ul>
+<li>Administrator for the UMN Physics Force and Physics Careers, managing a range of tasks from setting up shows, career and outreach events, as well as maintaining the websites and emails.</li>
+</ul>
+<!-- -->
+<ul>
+<li>Created a comparative report, including data acquisition and analysis, comparing the UMN undergraduate physics program to other American institutions.</li>
+</ul>
 <p><strong>Research Assistant</strong> (January 2021 - August 2022)</p>
+<ul>
+<li><p>Ran large scale simulations of observations from the Euclid Space telescope to create a user-friendly table to quickly estimate future observations.</p></li>
+<li><p>Lead the research and publication of a scientific paper on the role of group environments and galactic star-formation utilizing modern logistic regression techniques.</p></li>
+</ul>
 </section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
@@ -275,7 +286,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/astroBonnie\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

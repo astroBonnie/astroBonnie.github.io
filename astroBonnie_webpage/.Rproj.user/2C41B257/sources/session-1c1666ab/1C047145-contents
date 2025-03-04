@@ -7,11 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: astro_work.qmd
-        text: Astrophysics Research
-      - href: data_science.qmd
-        text: Data Science
 
 format:
   html:
