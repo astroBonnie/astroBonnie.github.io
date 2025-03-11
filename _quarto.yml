@@ -10,7 +10,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-    logo: astroBonnie_pic.jpg
+    logo: astroBonnie_pic_circle.png
   repo-url: https://github.com/astroBonnie/astroBonnie.github.io
   repo-actions: [edit, source, issue]
   page-footer:
