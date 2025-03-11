@@ -2,44 +2,62 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "",
-    "text": "Currently I am still editing and learning the ropes, so while you are free to browse keep in mind I do not intend for this website to be public and given out to recruiters yet."
+    "text": "This website was made with quarto, and while I have experience with this I am still learning the ropes. While this message is here please take into account that I do not view the current version of this website as finished.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "About Me",
-    "text": "About Me\nI am a data scientist with a background in Astrophysics research, I have been working with big data for the past 4 years. I got my B.S. in Astrophysics from the University of Minnesota in 2021. I then took a year gap year working as a researcher under Prof. Claudia Scarlata. This work led me to apply to graduate school, where I ended up attending the University of Minnesota for a Masters of Science in Astrophysics, which I received at the beginning of 2025. Much of my research has been in extragalactic evolution, with an emphasis on studying star-formation rates in galaxies. Due to my affiliation with the Euclid Space Telescope I also dedicated much of my time in my masters program to working with the Euclid data pipeline, working in structure (SQL) and unstructured (DBview) databases. This work led to multiple contributions to the Euclid collaboration, mostly in the form of data validation and the creation of python-based data pipelines that enabled scientists to access Euclid data before their scheduled releases.\nMy education and research have led me to develop a wide array of tools well befitting that of a data scientist, from modern AI and machine learning to classics like MCMC and regression. Astrophysics has been the birthplace of many modern statistical and computational techniques, and has uniquely prepared me to embrace the ever-changing landscape of data science."
+    "text": "About Me\nI am a data scientist with a background in Astrophysics research, I have been working with big data for the past 4 years. I got my B.S. in Astrophysics from the University of Minnesota in 2021. I then took a gap year working as a researcher under Prof. Claudia Scarlata. This work led me to apply to graduate school, where I ended up attending the University of Minnesota for a Masters of Science in Astrophysics, which I received at the beginning of 2025. Much of my research has been in extragalactic evolution, with an emphasis on studying star-formation rates in galaxies. Due to my affiliation with the Euclid Space Telescope I also dedicated much of my time in my masters program to working with the Euclid data pipeline, working in structure (SQL) and unstructured (DBview) databases. This work led to multiple contributions to the Euclid collaboration, mostly in the form of data validation and the creation of python-based data pipelines that enabled scientists to access Euclid data before their scheduled releases.\nMy education and research have led me to develop a wide array of tools well befitting that of a data scientist, from modern AI and machine learning to classics like MCMC and regression. Astrophysics has been the birthplace of many modern statistical and computational techniques, and has uniquely prepared me to embrace the ever-changing landscape of data science.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "Experience",
-    "text": "Experience\nGraduate Research Assistant (August 2022 - January 2025)\n\nDeveloped code infrastructure to allow basic users to conduct complex queries on an unstructured database.\nCollaborated with a team of statisticians to create a novel Bayesian and Frequentist approach to distance measurement in Astrophysics. Served as the astrophysics reference and lead python developer.\nPlanned and saw through a research project at Keck Observatory, including the resulting data reduction and analysis\n\nBayesian Astrostatistics Teaching Assistant (2022 & 2023 Fall Semester)\n\nTaught the foundations of Bayesian statistics through the lens of Astrophysics. Focused on modern techniques of MCMC, bayesian model selection, and hierarchical modeling.\n\n\n\nWorked with Dr. Scarlata to create the course textbook, including testing and coding examples in R and Python.\n\nAdministrative Assistant (May 2021 - July 2022)\n\nAdministrator for the UMN Physics Force and Physics Careers, managing a range of tasks from setting up shows, career and outreach events, as well as maintaining the websites and emails.\n\n\n\nCreated a comparative report, including data acquisition and analysis, comparing the UMN undergraduate physics program to other American institutions.\n\nResearch Assistant (January 2021 - August 2022)\n\nRan large scale simulations of observations from the Euclid Space telescope to create a user-friendly table to quickly estimate future observations.\nLead the research and publication of a scientific paper on the role of group environments and galactic star-formation utilizing modern logistic regression techniques."
+    "text": "Experience\nGraduate Research Assistant (August 2022 - January 2025)\n\nDeveloped code infrastructure to allow basic users to conduct complex queries on an unstructured database.\nCollaborated with a team of statisticians to create a novel Bayesian and Frequentist approach to distance measurement in Astrophysics. Served as the astrophysics reference and lead python developer.\nPlanned and saw through a research project at Keck Observatory, including the resulting data reduction and analysis\n\nBayesian Astrostatistics Teaching Assistant (2022 & 2023 Fall Semester)\n\nTaught the foundations of Bayesian statistics through the lens of Astrophysics. Focused on modern techniques of MCMC, bayesian model selection, and hierarchical modeling.\n\n\n\nWorked with Dr. Scarlata to create the course textbook, including testing and coding examples in R and Python.\n\nAdministrative Assistant (May 2021 - July 2022)\n\nAdministrator for the UMN Physics Force and Physics Careers, managing a range of tasks from setting up shows, career and outreach events, as well as maintaining the websites and emails.\n\n\n\nCreated a comparative report, including data acquisition and analysis, comparing the UMN undergraduate physics program to other American institutions.\n\nResearch Assistant (January 2021 - August 2022)\n\nRan large scale simulations of observations from the Euclid Space telescope to create a user-friendly table to quickly estimate future observations.\nLead the research and publication of a scientific paper on the role of group environments and galactic star-formation utilizing modern logistic regression techniques.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "Publications",
-    "text": "Publications\n[Bonnabelle Zabelle et al 2023 ApJ 947 17](https://iopscience.iop.org/article/10.3847/1538-4357/acacfd)\n[Vihang Mehta et al 2024 ApJS 275 17](https://arxiv.org/abs/2410.16404)\n[Lei Sun et al 2024 ApJ 972](https://iopscience.iop.org/article/10.3847/1538-4357/ad5540/meta)"
+    "text": "Publications\n[Bonnabelle Zabelle et al 2023 ApJ 947 17](https://iopscience.iop.org/article/10.3847/1538-4357/acacfd)\n[Vihang Mehta et al 2024 ApJS 275 17](https://arxiv.org/abs/2410.16404)\n[Lei Sun et al 2024 ApJ 972](https://iopscience.iop.org/article/10.3847/1538-4357/ad5540/meta)",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#programming-skills",
     "href": "index.html#programming-skills",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "Programming Skills",
-    "text": "Programming Skills\nReally Good: Python, LaTeX, Markdown, Jupyter\nProficient: R, rStudio, SQL, scikit-learn, Git\nBare Minimum: PyTorch, C++"
+    "text": "Programming Skills\nReally Good: Python, LaTeX, Markdown, Jupyter\nProficient: R, rStudio, SQL, scikit-learn, Git\nBare Minimum: PyTorch, C++",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#degrees-and-awards",
     "href": "index.html#degrees-and-awards",
-    "title": "Home",
+    "title": "Extended Resume",
     "section": "Degrees and Awards",
-    "text": "Degrees and Awards\nMaster of Science - Astrophysics; GPA 3.772/4.000 - Received January 2025\nData Science and Multi-Messanger Astronomy Fellowship - Awarded 2023\nBachelor of Science - Astrophysics; GPA 3.209/4.000 - Received August 2021"
+    "text": "Degrees and Awards\nMaster of Science - Astrophysics; GPA 3.772/4.000 - Received January 2025\nData Science and Multi-Messanger Astronomy Fellowship - Awarded 2023\nBachelor of Science - Astrophysics; GPA 3.209/4.000 - Received August 2021",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "astro_work.html",

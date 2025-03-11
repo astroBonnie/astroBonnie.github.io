@@ -1,0 +1,10 @@
+---
+title: "404 Page Not Found"
+format: html
+---
+
+Ope!
+
+Looks like the page your looking for no longer exists!
+
+If you think that it should and it is an error on my end, then feel free to contact me and let me know!
