@@ -10,14 +10,14 @@ website:
     contents:
       - href: index.qmd
         text: Home
+    logo: astroBonnie_pic.jpg
   repo-url: https://github.com/astroBonnie/astroBonnie.github.io
   repo-actions: [edit, source, issue]
   page-footer:
     left: "Copyright 2025, Bonnabelle Zabelle"
     right:
-      -icon: github
-       href: https://github.com/astroBonnie
-  logo: astroBonnie_pic.jpg
+      - icon: github
+        href: https://github.com/astroBonnie
 
 format:
   html:
