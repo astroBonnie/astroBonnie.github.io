@@ -4,20 +4,14 @@ project:
 
 website:
   title: "Bonnabelle Zabelle"
-  sidebar:
-    style: "docked"
-    search: false
-    contents:
+  navbar:
+    right:
       - href: index.qmd
         text: Home
-    logo: astroBonnie_pic_circle.png
   repo-url: https://github.com/astroBonnie/astroBonnie.github.io
   repo-actions: [edit, source, issue]
   page-footer:
     left: "Copyright 2025, Bonnabelle Zabelle"
-    right:
-      - icon: github
-        href: https://github.com/astroBonnie
 
 format:
   html:

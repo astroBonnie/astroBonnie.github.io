@@ -1,5 +1,18 @@
 ---
-title: "Extended Resume"
+title: "Bonnabelle Zabelle"
+image: astroBonnie_pic_circle.png
+about:
+  template: trestles
+  links: 
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/bonnabelle-zabelle-7b7011123/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/astroBonnie"
+    - text: Email
+      url: "mailto:bonnabellezabelle@gmail.com"
+    - text: CV
+      url: "ZabelleBonnabelle_Resume.pdf"
 ---
 
 This website was made with quarto, and while I have experience with this I am still learning the ropes. While this message is here please take into account that I do not view the current version of this website as finished.
