@@ -2,7 +2,7 @@
 title: "Bonnabelle Zabelle"
 image: astroBonnie_pic_circle.png
 about:
-  template: trestles
+  template: jolla
   links: 
     - text: LinkedIn
       url: "https://www.linkedin.com/in/bonnabelle-zabelle-7b7011123/"
