@@ -12,7 +12,7 @@ about:
     - text: Email
       url: "mailto:bonnabellezabelle@gmail.com"
     - text: CV
-      url: "ZabelleBonnabelle_Resume.pdf"
+      href: "ZabelleBonnabelle_Resume.pdf"
 ---
 
 Hey there, hi there, ho there!
